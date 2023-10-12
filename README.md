@@ -1,6 +1,6 @@
 # Olá sou Gustavo Henrique!!
 
-- 🎓 Graduando em Analise e Desenvolvimento de Sistemas 
+- 🎓 Estudante de Analise e Desenvolvimento de Sistemas 
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavosantt&show_icons=true&theme=dracula)
@@ -16,5 +16,5 @@
 
 <div> 
   <a href="https://www.linkedin.com/in/gustavo-henrique-61a895215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:gustavo22532@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://mail.google.com/mail/u/0/?pli=1#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
