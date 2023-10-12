@@ -1,6 +1,8 @@
 # Olá sou Gustavo Henrique!!
 
-- 🎓 Estudante de Analise e Desenvolvimento de Sistemas 
+- 🎓 Estudante de Analise e Desenvolvimento de Sistemas
+- 💻 Estudando atualmente Python, Banco de dados
+- 
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavosantt&show_icons=true&theme=dracula)
