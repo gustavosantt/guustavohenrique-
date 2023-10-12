@@ -12,7 +12,6 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://www.svgrepo.com/show/376344/python.svg">
-  <img aling =!center" heigh="40" width="30" src="https://docmanagement.com.br/wp-content/uploads/2012/07/banco-de-dados.jpg">
 </div>
 
 ##
