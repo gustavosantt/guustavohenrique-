@@ -4,8 +4,8 @@
 
 <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=gustavosantt&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=gustavosantt&show_icons=true&theme=rose"
+      media="(prefers-color-scheme: rose)"
     />
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=gustavosantt&show_icons=true"
