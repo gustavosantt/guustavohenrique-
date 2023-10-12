@@ -1,6 +1,6 @@
 # Olá sou Gustavo Henrique!!
 
-- 🎓 Graduanda em Analise e Desenvolvimento de Sistemas 
+- 🎓 Graduando em Analise e Desenvolvimento de Sistemas 
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavosantt&show_icons=true&theme=dracula)
