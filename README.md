@@ -1,4 +1,5 @@
 # Olá sou Gustavo Henrique!!
+    Atualmente estou cursando graduação em Análise e Desenvolvimento de Sistemas.
 
 
 <picture>
