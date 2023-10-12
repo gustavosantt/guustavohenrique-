@@ -12,7 +12,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://www.svgrepo.com/show/376344/python.svg">
-  <img aling =!center" heigh="30" width="40" src="https://cdn.icon-icons.com/icons2/140/PNG/256/database_data_20916.png">
+  <img aling =!center" heigh="30" width="40" src="https://docmanagement.com.br/wp-content/uploads/2012/07/banco-de-dados.jpg">
 </div>
 
 ##
